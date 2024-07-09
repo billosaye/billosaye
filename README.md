@@ -37,6 +37,5 @@ Let's connect and build the future together! 🌟
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/billyosaye), [Instagram](https://instagram.com/billyosaye)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billyosaye&layout=compact&theme=dark&hide_border=true)
 
 
