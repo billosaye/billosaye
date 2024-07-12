@@ -1,41 +1,62 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner Image">
 
-## Hi there! 👋 I'm Billy Osaye, a passionate Full Stack Developer.
+# Welcome to Billy Osaye's GitHub Profile!
 
-🚀 With a solid foundation in the MERN stack and expertise in crafting efficient and scalable web applications, I bring a diverse skill set to every project. My journey is all about utilizing modern technologies to design, develop, and deploy impactful solutions while focusing on user needs and product excellence.
+![Profile Views](https://komarev.com/ghpvc/?username=billosaye&color=blue)
 
-👨‍🏭 Leading and collaborating with teams, I emphasize coding standards and best practices. My extensive background in app development ensures I'm always at the forefront of innovative full-stack engineering.
+## 👨‍💻 About Me
 
-🛠️ My tech toolkit includes PostgreSQL, Express.js, React, Node.js, Next.js, EJS, Bootstrap, and WordPress. I thrive in Agile environments, crafting accessible UIs for web applications and emphasizing continuous integration and quality.
+Hello! I'm Billy Osaye, a passionate Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I have a strong background in web development, digital marketing, and software engineering.
 
-🔐 When it comes to security, industry standards like OAuth2 are second nature to me. Integrating robust authentication and authorization into web applications is part of my daily routine.
+## 🛠️ Technologies & Tools
 
-🧠 My problem-solving skills and Agile mindset enable me to adapt seamlessly to various methodologies. I excel in breaking down complex technical matters into clear, digestible explanations, bridging the gap between technology and business effortlessly.
+- **Languages:** JavaScript, HTML, CSS
+- **Front-End Development:** React, EJS, Bootstrap
+- **Back-End Development:** Node.js, Express.js
+- **Databases:** MongoDB, PostgreSQL
+- **Others:** Git, GitHub, WordPress
 
-Let's connect and build the future together! 🌟
+## 🔭 Current Projects
 
-[![LinkedIn: Billy](https://img.shields.io/badge/-Billy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/billy-osaye/)](https://www.linkedin.com/in/billy-osaye/)
-![Twitter Follow](https://img.shields.io/twitter/follow/billyosaye?style=social)
+### [Todo List Backend with Node.js and Express.js](https://github.com/billosaye/todo-list-node-express)
+A simple To-Do List application using Node.js, Express.js, EJS templates, and Bootstrap for styling. It features CRUD operations for task management.
 
-### Top Skills:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-blue?style=for-the-badge&logo=ejs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+### [Weather App](https://github.com/billosaye/weather-app)
+A weather application built with Node.js, Express, and EJS. It uses weatherapi.com for weather data and has a clean, modern UI with responsive design.
 
----
+### [School Management System](https://github.com/billosaye/school-management-system)
+A comprehensive management system for schools, utilizing the MERN stack to provide a robust and scalable solution.
 
-- 🔭 I’m currently working on a **School Management System** using PostgreSQL, Express.js, React, Node.js, and Next.js.
-- 🌱 I’m currently learning **Human Psychology**
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
-- 💬 Ask me about **Full Stack Development**
-- 📫 How to reach me:
-  **[Twitter](https://twitter.com/billyosaye), [Instagram](https://instagram.com/billyosaye)**
+### [Capital City Quiz App](https://github.com/billosaye/Quiz-App)
+An interactive quiz application to test your knowledge of world capital cities, built with React and Node.js.
+
+## 🌱 Learning Journey
+
+I am currently diving deeper into:
+
+- Advanced querying in PostgreSQL
+- Enhancing my skills in human psychology to better understand user experience
+
+## 📫 How to Reach Me
+
+- **Email:** billyosaye@example.com
+- **LinkedIn:** [Billy Osaye](https://www.linkedin.com/in/billyosaye/)
+- **Twitter:** [@BillyOsaye](https://twitter.com/BillyOsaye)
+
+## 📝 Blog
+
+I share my insights and experiences on my [blog](https://billyosaye.dev/blog). Check it out for tutorials, project updates, and more!
+
+## 📊 GitHub Stats
+
+![Billy Osaye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=billosaye&show_icons=true&theme=radical)
+
+## 💬 Get in Touch
+
+Feel free to reach out if you have any questions or just want to connect!
+
+
+
 
 
 
