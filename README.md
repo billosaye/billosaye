@@ -16,20 +16,6 @@ Hello! I'm Billy Osaye, a passionate Full Stack Developer specializing in the ME
 - **Databases:** MongoDB, PostgreSQL
 - **Others:** Git, GitHub, WordPress
 
-## 🔭 Current Projects
-
-### [Todo List Backend with Node.js and Express.js](https://github.com/billosaye/todo-list-node-express)
-A simple To-Do List application using Node.js, Express.js, EJS templates, and Bootstrap for styling. It features CRUD operations for task management.
-
-### [Weather App](https://github.com/billosaye/weather-app)
-A weather application built with Node.js, Express, and EJS. It uses weatherapi.com for weather data and has a clean, modern UI with responsive design.
-
-### [School Management System](https://github.com/billosaye/school-management-system)
-A comprehensive management system for schools, utilizing the MERN stack to provide a robust and scalable solution.
-
-### [Capital City Quiz App](https://github.com/billosaye/Quiz-App)
-An interactive quiz application to test your knowledge of world capital cities, built with React and Node.js.
-
 ## 🌱 Learning Journey
 
 I am currently diving deeper into:
