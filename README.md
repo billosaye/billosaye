@@ -16,6 +16,11 @@ Hello! I'm Billy Osaye, a passionate Full Stack Developer specializing in the ME
 - **Databases:** MongoDB, PostgreSQL
 - **Others:** Git, GitHub, WordPress
 
+## 🌟 Current Project
+
+- **Hotel Booking Website (OSAYE BOOKINGS):**  
+  I am currently working on a MERN Stack hotel booking website named OSAYE BOOKINGS. It allows users to search for hotels, filter results by preferences, and book rooms with ease. The project emphasizes responsive design, efficient booking features, and seamless integration of MongoDB for managing user data and bookings.
+
 ## 🌱 Learning Journey
 
 I am currently diving deeper into:
@@ -26,7 +31,7 @@ I am currently diving deeper into:
 ## 📫 How to Reach Me
 
 - **Email:** billyosaye@example.com
-- **LinkedIn:** [Billy Osaye](https://www.linkedin.com/in/billyosaye/)
+- **LinkedIn:** [Billy Osaye](https://www.linkedin.com/in/billy-bradocks/)
 - **Twitter:** [@BillyOsaye](https://twitter.com/BillyOsaye)
 
 ## 📝 Blog
@@ -40,9 +45,3 @@ I share my insights and experiences on my [blog](https://billyosaye.dev/blog). C
 ## 💬 Get in Touch
 
 Feel free to reach out if you have any questions or just want to connect!
-
-
-
-
-
-
