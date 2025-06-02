@@ -10,11 +10,11 @@ Hello! I'm Billy Osaye, a passionate Full Stack Developer specializing in the ME
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, HTML, CSS
-- **Front-End Development:** React, EJS, Bootstrap
-- **Back-End Development:** Node.js, Express.js
-- **Databases:** MongoDB, PostgreSQL
-- **Others:** Git, GitHub, WordPress
+- **Front-End Development:** React.js, Next.js, Tailwind, Shadcn
+- **Back-End Development:** Node.js, Express.js, Supabase
+- **Databases:** MongoDB, PostgreSQL, Clerk
+- **DevOps/Tools:** Git, GitHub, npm, Vercel, Netlify
+
 
 ## 🌟 Current Project
 
